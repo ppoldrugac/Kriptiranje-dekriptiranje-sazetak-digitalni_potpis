@@ -1,0 +1,15 @@
+C:\Users\Cico\Desktop\projekt_os2\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Cico\Desktop\projekt_os2\Projekt\bin\Debug\Projekt.exe
+C:\Users\Cico\Desktop\projekt_os2\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.Projekt.resources
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.exe
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.FrmAES.resources
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.FrmRSA.resources
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.FrmSazetak.resources
+C:\Users\Cico\Desktop\projekt_os2\Projekt\obj\Debug\Projekt.FrmDigitalniPotpis.resources

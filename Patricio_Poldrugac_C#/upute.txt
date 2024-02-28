@@ -1,0 +1,10 @@
+Unutar datoteke Patricio_Poldrugac_C# nalaze se datoteke: Projekt, projekt_os2.sln te upute.txt.
+
+Pritiskom na "projekt_os2.sln" otvara se Visual Studio, a da bi se 
+pokrenuo sam program potrebno je još kliknuti na tipku
+Start(zelena strelica).
+
+Sve datoteke koje se čitaju i u koje se zapisuje nešto tijekom izvođenja aplikacije nalaze se u (putanja):
+Patricio_Poldrugac_C#\Projekt\bin\Debug
+
+Početni tekst za testiranje (datoteka koja se u aplikaciji učitava) je spremljen u: tekst.txt (nalazi se u: Projekt\bin\Debug)
